@@ -18,7 +18,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("img\amazon_logo.png");
     background-size: cover;
     height:50px;
     width: 100%;
@@ -192,7 +192,7 @@ margin-left: 3px;
 }
 /*hero-section */
 .hero-section{
-    background-image: url(Fuji_LPHero_FD21_en_USe.jpg);
+    background-image: url(img\Fuji_LPHero_FD21_en_USe.jpg);
     background-size: cover;
     height: 218px;
     padding: 14px 18px 18px 18px;
@@ -232,51 +232,51 @@ margin-left: 3px;
     padding-top: 20px;
 }
 .box1{
-    background-image: url("apparel.png");
+    background-image: url("img\apparel.png");
     background-size: cover;
 }
 .box2{
-    background-image: url("shoes.png");
+    background-image: url("img\shoes.png");
     background-size: cover;
 }
 .box3{
-    background-image: url("gaming.png");
+    background-image: url("img\gaming.png");
     background-size: cover;
 }
 .box4{
-    background-image: url("accesories.png");
+    background-image: url("img\accesories.png");
     background-size: cover;
 }
 .box5{
-    background-image: url("funko.png");
+    background-image: url("img\funko.png");
     background-size: cover;
 }
 .box6{
-    background-image: url("electronics.png");
+    background-image: url("img\electronics.png");
     background-size: cover;
 }
 .box7{
-    background-image: url("watches.png");
+    background-image: url("img\watches.png");
     background-size: cover;
 }
 .box8{
-    background-image: url("automotive.png");
+    background-image: url("img\automotive.png");
     background-size: cover;
 }
 .box9{
-    background-image: url("personal\ care.png");
+    background-image: url("img\personal\ care.png");
     background-size: cover;
 }
 .box10{
-    background-image: url("ties\ and\ accesories.png");
+    background-image: url("img\ties\ and\ accesories.png");
     background-size: cover;
 }
 .box11{
-    background-image: url("homeoffice.png");
+    background-image: url("img\homeoffice.png");
     background-size: cover;
 }
 .box12{
-    background-image: url("tools.png");
+    background-image: url("img\tools.png");
     background-size: cover;
 }
 .txt-box{
@@ -291,7 +291,7 @@ margin-left: 3px;
     color: #4f4e4e;
 }
 .banner{
-    background-image: url("LP_Deals_EN.jpg");
+    background-image: url("img\LP_Deals_EN.jpg");
     background-size: cover;
     height: 126.5px;
     margin-top: 20px;
@@ -352,7 +352,7 @@ text-decoration: underline;
 
 }
 .foot-logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("img\amazon_logo.png");
     background-size: cover;
     padding: 0px 7px 0px 7px;
     width: 100px;
@@ -415,7 +415,7 @@ text-decoration: underline;
 .country-logo{
     height: 15px;
     width: 15px;
-    background-image: url("flag.png");
+    background-image: url("img\flag.png");
     background-size: cover;
 }
 
